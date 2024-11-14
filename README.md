@@ -1,3 +1,1 @@
-Elf binary file 
-
-  
+Elf binary file
